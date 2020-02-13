@@ -1,0 +1,10 @@
+[[OpenSpiel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8065dab90f163844d960bbdfe1c563a4c97ec8a2"
+libc = "glibc"
+os = "linux"
+
+    [[OpenSpiel.download]]
+    sha256 = "b7745153192bad369f80eb20a7db82fa92919bfe0f1f067913a8873c26cb78ff"
+    url = "https://github.com/findmyway/OpenSpiel_jll.jl/releases/download/OpenSpiel-v0.1.0+0/OpenSpiel.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
